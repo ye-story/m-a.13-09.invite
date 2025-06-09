@@ -16,7 +16,11 @@ const names = [
   { id: "14", names: "Наталья" },
   { id: "15", names: "Станислав" },
   { id: "16", names: "Степан" },
-  { id: "17", names: "Кирилл" }
+  { id: "17", names: "Кирилл" },
+  { id: "18", names: "Анна и Клим" },
+  { id: "19", names: "Алина" }
+
+  
 ];
 
 const baseURL = location.href.replace('admin/', ''); //location.origin
